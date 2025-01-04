@@ -2,7 +2,7 @@
 
 ## Filtro por producto, marca y etiqueta
 
-![Principal](../../DashBoard.Merx.pbix)
+![Principal](image-2.png)
 
 
 ![Histórico](image.png)
